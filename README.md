@@ -79,7 +79,7 @@ A **scenario** consists of one or more missions.</br>
 </br>
 <details>
 <summary>more details </summary>
-</br> </br> 
+</br>
 The scenarios' screen allows users to see all available patrol scenarios **(A)**. When a scenario is selected , its path is drawn on the map **(B)** and then the user can choose to launch it and track the robot's movement on the map in real time. The Add Scenario button **(C)** takes the user to the Create Scenario screen.
 </details>
 
@@ -90,7 +90,7 @@ The scenarios' screen allows users to see all available patrol scenarios **(A)**
 </br>
 <details> 
 <summary>more details</summary></br>
-This only shows the **first part** of the screen where the user can create a new scenario. They will first need to enter the scenario’s name **(A)**, they also can check the random option (the scenario’s missions will be played in random order). And they can set the scenario’s iteration to either 1 (loop) or 0 **(B)**.
+This only shows the <b>first part</b> of the screen where the user can create a new scenario. They will first need to enter the scenario’s name <b>(A)</b>, they also can check the random option (the scenario’s missions will be played in random order). And they can set the scenario’s iteration to either 1 (loop) or 0 <b>(B)</b>.
 </br>
 </details> 
 
@@ -101,27 +101,27 @@ This only shows the **first part** of the screen where the user can create a new
 </br>
 <details> 
 <summary>more details</summary></br>
-This shows the **second part** of the Create a new scenario screen. The user can add one or more missions **(A)**, and for each mission, they need to specify a pause time: the robot will pause for x seconds between missions **(B)**.
+This shows the <b>second part</b> of the Create a new scenario screen. The user can add one or more missions <b>(A)</b>, and for each mission, they need to specify a pause time: the robot will pause for x seconds between missions <b>(A)</b>.
 </details> 
 
 ---
 ### Camera Screen</br> 
 
 Live streams and control of the robot's cameras.
-</br> 
+</br></br> 
  <img width="562" alt="image" src="https://user-images.githubusercontent.com/82158584/232223538-046b25f0-f8a5-4ab7-a231-d051977b9c93.png">
 </br>
 
 <details> 
 <summary>more details</summary></br>
-The Camera Screen contains the video streams coming from the robot’s two 360° cameras **(A)**. Meaning the user can rotate these cameras using the slider **(B)** with the option to change the rotation direction: either front or back **(C)**. They can also zoom in or out **(D)**.
+The Camera Screen contains the video streams coming from the robot’s two 360° cameras <b>(A)</b>. Meaning the user can rotate these cameras using the slider <b>(B)</b> with the option to change the rotation direction: either front or back <b>(C)</b>. They can also zoom in or out <b>(D)</b>.
 
 ---
 #### Full screen mode
-</br> 
+</br> </br>
  <img width="562" alt="image" src="https://user-images.githubusercontent.com/82158584/232223699-62700136-bd95-42eb-bc9b-5b941a86a753.png">
 </br>
-The user can double tap on each video to go into full-screen mode. They can zoom in or out by pinching the screen **(A)**, and they can exit the full screen **(B)**.
+The user can double tap on each video to go into full-screen mode. They can zoom in or out by pinching the screen <b>(A)</b>, and they can exit the full screen <b>(B)</b>.
 </details>
 
 ---
@@ -131,5 +131,5 @@ The user can double tap on each video to go into full-screen mode. They can zoom
 </br>
 <details>
 <summary>more details </summary></br> 
-The following figure shows the Settings Screen in which the user can check his account information **(A)** and change his app settings. Mainly the user can turn on/off their notifications **(B)** to receive all different types of alert messages (mission creation, the emergency button changed, scenario launched…), and log out of the app **(C)**.
+The following figure shows the Settings Screen in which the user can check his account information <b>(A)</b> and change his app settings. Mainly the user can turn on/off their notifications <b>(B)</b> to receive all different types of alert messages (mission creation, the emergency button changed, scenario launched…), and log out of the app <b>(C)</b>.
 </details>
