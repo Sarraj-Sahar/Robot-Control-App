@@ -4,10 +4,9 @@
 The app offers a fully remote solution for security guards to control the robot, send command requests and receive responses and alerts in real time.
 
 ## Built With
-* [Flutter](https://docs.flutter.dev/)
+* [Flutter 💙](https://docs.flutter.dev/) 
+* [Mapbox](https://www.mapbox.com/)
 * [Websocket](https://blog.logrocket.com/using-websockets-flutter/)
-
-* RTSP 
 
 
 ## Screens 
@@ -167,6 +166,16 @@ Project is following MVC pattern. For managing state I used GETX. All the UI com
 ├── Monitor and control robot's cameras.
 └── Enable and receive alert notifications.
 ```
+</br>
+To learn more about GetX:</br>
+https://blog.logrocket.com/ultimate-guide-getx-state-management-flutter/
+
+To learn more about MVC pattern:</br>
+https://medium.com/follow-flutter/flutter-mvc-at-last-275a0dc1e730
+
+To learn more about Websockets in flutter:</br>
+https://blog.logrocket.com/using-websockets-flutter/
+
 ```PS.```
 
-Please note that the code for this app is confidential and cannot be shared. However, I can provide access to my report which outlines the development process of the app upon request.
+Please note that the code for this app is confidential and cannot be shared. However, I can provide access to my report which outlines the full development process of the app upon request.
