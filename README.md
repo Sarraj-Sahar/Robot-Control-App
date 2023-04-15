@@ -133,11 +133,10 @@ The user can double tap on each video to go into full-screen mode. They can zoom
 <summary>more details </summary></br> 
 The following figure shows the Settings Screen in which the user can check his account information <b>(A)</b> and change his app settings. Mainly the user can turn on/off their notifications <b>(B)</b> to receive all different types of alert messages (mission creation, the emergency button changed, scenario launched…), and log out of the app <b>(C)</b>.
 </details>
----
 
 ## Code Flow:
 
-Project is following MVC pattern. For managing state I used GETX. All the UI components are inside views folder. Business logic is handled inside controller folder. Model is used to parse data.
+Project is following MVC pattern. For managing state I used GETX. All the UI components are inside the views folder. Business logic is handled inside the controller folder. Robot data Model is used to parse the incoming data stream.
 
 ```
 └── lib/
@@ -161,4 +160,7 @@ Project is following MVC pattern. For managing state I used GETX. All the UI com
 ├── Create and Launch patrol scenarios.
 ├── Monitor and control robot's cameras.
 └── Enable and receive alert notifications.
+```
+```PS.```
 
+Please note that the code for this app is confidential and cannot be shared. However, I can provide access to my report which outlines the development process of the app upon request.
