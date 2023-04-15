@@ -80,7 +80,7 @@ A **scenario** consists of one or more missions.</br>
 <details>
 <summary>more details </summary>
 </br>
-The scenarios' screen allows users to see all available patrol scenarios **(A)**. When a scenario is selected , its path is drawn on the map **(B)** and then the user can choose to launch it and track the robot's movement on the map in real time. The Add Scenario button **(C)** takes the user to the Create Scenario screen.
+The scenarios' screen allows users to see all available patrol scenarios <b>(A)</b>. When a scenario is selected , its path is drawn on the map <b>(B)</b> and then the user can choose to launch it and track the robot's movement on the map in real time. The Add Scenario button <b>(C)</b> takes the user to the Create Scenario screen.
 </details>
 
 ---
