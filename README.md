@@ -3,6 +3,12 @@
 </br>This project entitled <b>“Development of a Mobile Application to Control the P-Guard Robot”</b> was part of my internship with Enova Robotics.
 The app offers a fully remote solution for security guards to control the robot, send command requests and receive responses and alerts in real time.
 
+## Built With
+* [Flutter](https://docs.flutter.dev/)
+* [Websocket](https://blog.logrocket.com/using-websockets-flutter/)
+
+* RTSP 
+
 
 ## Screens 
 
